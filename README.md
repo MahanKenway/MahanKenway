@@ -85,3 +85,6 @@ I'm a passionate **Python Developer** and an avid **Gamer**. I love exploring th
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31rndtorf2q5huhulx74wi42bfvq">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31rndtorf2q5huhulx74wi42bfvq" alt="Data Card for Spotify">
 </a>
+
+
+                                                     ✨ Keep coding, keep growing!✨

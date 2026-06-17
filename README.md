@@ -77,3 +77,11 @@ I'm a passionate **Python Developer** and an avid **Gamer**. I love exploring th
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </div>
+
+
+
+
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31rndtorf2q5huhulx74wi42bfvq">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31rndtorf2q5huhulx74wi42bfvq" alt="Data Card for Spotify">
+</a>

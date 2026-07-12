@@ -39,7 +39,7 @@ I'm a passionate **Python Developer** and an avid **Gamer**. I love exploring th
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahanKenway&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MahanKenway&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---

@@ -16,17 +16,14 @@
 
 ## 🧬 About
 
-```yaml
-name: Mahan Tavakoli
-location: Iran 🇮🇷
-focus: Full-Stack Web Development, AI Integration, Creative Coding
-philosophy: "If it doesn't exist yet, build it. If it exists, make it weirder."
-currently_building:
-  - Retro-futuristic productivity workspaces
-  - AI-powered tabletop RPG tools
-  - Y2K photo editors that make modern cameras cry
-  - Internet slang dictionaries with Brainrot Mode™
-```
+
+I'm a passionate **Python Developer** and an avid **Gamer**. I love exploring the intersection of **Artificial Intelligence**, **Cyber Security**, and **Networking**. I'm constantly learning and building cool projects!
+
+- 🎮 **Gaming** is my second language.
+- 🤖 Exploring the world of **AI & Machine Learning**.
+- 🛡️ Deep diving into **Cyber Security** and **Ethical Hacking**.
+- 🌐 **Network+** certified and interested in infrastructure.
+
 
 <br/>
 

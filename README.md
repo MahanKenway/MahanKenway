@@ -89,8 +89,8 @@ I'm a passionate **Python Developer** and an avid **Gamer**. I love exploring th
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MahanKenway&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahanKenway&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" height="180" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MahanKenway&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9" height="180" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MahanKenway&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" height="180" />
 
 </div>
 
@@ -102,7 +102,7 @@ I'm a passionate **Python Developer** and an avid **Gamer**. I love exploring th
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MahanKenway&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img src="https://github-trophies.vercel.app/?username=MahanKenway&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 

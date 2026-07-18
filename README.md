@@ -102,7 +102,7 @@ I'm a passionate **Python Developer** and an avid **Gamer**. I love exploring th
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=MahanKenway&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+
 
 </div>
 

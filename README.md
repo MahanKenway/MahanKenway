@@ -1,14 +1,16 @@
+<!-- PROFILE README STYLE: dark-metal retro, crimson accents, technical but human, Vibe Coding-forward. -->
+
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Mahan%20Tavakoli&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20that%20shouldn't%20exist%20—%20but%20do.&descSize=16&descAlignY=55&descColor=8b949e)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050508,50:161b22,100:c71525&height=230&section=header&text=Mahan%20Tavakoli&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Vibe%20Coding%20%C2%B7%20Open%20Source%20%C2%B7%20Retro%20Web%20Craft&descSize=16&descAlignY=55&descColor=aeb7c6)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Full-Stack+Developer+%7C+AI+Integrator+%7C+Creative+Coder;React+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+Three.js+%E2%80%A2+Web+Audio)](https://github.com/MahanKenway)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=C71525&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=74&lines=Python+Developer+%7C+AI+Integrator+%7C+Creative+Coder;Vibe+Coding+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+WebAssembly)](https://github.com/MahanKenway)
 
 <br/>
 
-<a href="https://github.com/MahanKenway?tab=repositories"><img src="https://img.shields.io/badge/Repos-14+-161b22?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://github.com/MahanKenway?tab=followers"><img src="https://img.shields.io/github/followers/MahanKenway?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=6e40c9" /></a>
-<img src="https://komarev.com/ghpvc/?username=MahanKenway&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" />
+<a href="https://github.com/MahanKenway?tab=repositories"><img src="https://img.shields.io/badge/Repos-14+-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=c71525" /></a>
+<a href="https://github.com/MahanKenway?tab=followers"><img src="https://img.shields.io/github/followers/MahanKenway?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=c71525" /></a>
+<img src="https://komarev.com/ghpvc/?username=MahanKenway&style=for-the-badge&color=c71525&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -16,14 +18,30 @@
 
 ## 🧬 About
 
-
 I'm a passionate **Python Developer** and an avid **Gamer**. I love exploring the intersection of **Artificial Intelligence**, **Cyber Security**, and **Networking**. I'm constantly learning and building cool projects!
 
-- 🎮 **Gaming** is my second language.
-- 🤖 Exploring the world of **AI & Machine Learning**.
-- 🛡️ Deep diving into **Cyber Security** and **Ethical Hacking**.
-- 🌐 **Network+** certified and interested in infrastructure.
+I also work in a **Vibe Coding** workflow: I turn strong product direction, clear taste, and modern AI tooling into polished browser experiences, experimental developer tools, and open-source projects with personality.
 
+| Signal | What it means here |
+|---|---|
+| 🎮 Gaming | **Gaming** is my second language. I build for people who care about feel, not only features. |
+| 🤖 AI | Exploring the world of **AI & Machine Learning**, especially practical AI-assisted development. |
+| 🛡️ Security | Deep diving into **Cyber Security** and **Ethical Hacking**. |
+| 🌐 Networks | **Network+** certified and interested in infrastructure. |
+
+<br/>
+
+## ⚙️ Vibe Coding, With Intent
+
+> I use AI as a creative and technical collaborator—not as a substitute for judgment. The goal is still the same: ship something useful, memorable, and built with care.
+
+<div align="center">
+
+`IDEA → DIRECTION → AI-ASSISTED BUILD → TEST → REFINEMENT → SHIP`
+
+</div>
+
+I enjoy building projects where the interface has a point of view: retro games in the browser, Y2K visuals, interactive audio, small moments of surprise, and tooling that does not feel generic.
 
 <br/>
 
@@ -78,31 +96,23 @@ I'm a passionate **Python Developer** and an avid **Gamer**. I love exploring th
 | ⚡ | [**DigiRawr**](https://github.com/MahanKenway/digi-rawr) | Y2K photo editor — film grain, RGB split, goth filters on HTML5 Canvas | React 19 · TypeScript · Canvas |
 | 🎲 | [**Arcane Dice**](https://github.com/MahanKenway/Arcane-Dice) | BG3-inspired 3D physics dice roller with AI dungeon master narrations | Three.js · Ammo.js · Gemini |
 | 📗 | [**ShortMan Dictionary**](https://github.com/MahanKenway/ShortManDictionary) | Internet slang dictionary with Brainrot Mode™ and vibe ratings | React · Tailwind · shadcn |
-| 🕹️ | [**DOOM**](https://github.com/MahanKenway/DOOM) | Classic 1993 DOOM compiled to WebAssembly — runs in the browser | C++ · Emscripten · WASM |
+| 🕹️ | [**RetroPlay**](https://github.com/MahanKenway/RetroPlay) | Classic 1993 DOOM compiled to WebAssembly — runs in the browser | C++ · Emscripten · WASM |
 | 🕊️ | [**Freedom-V2Ray**](https://github.com/MahanKenway/Freedom-V2Ray) | Auto-updating V2Ray config collector (80+ ⭐) | Python · Automation |
 
 </div>
 
 <br/>
 
-## 📊 Stats
+## 📊 Signal Check
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MahanKenway&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9" height="180" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MahanKenway&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9&langs_count=8" height="180" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MahanKenway&show_icons=true&theme=github_dark&hide_border=true&bg_color=050508&title_color=c71525&icon_color=c71525&text_color=c9d1d9&ring_color=c71525" height="180" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MahanKenway&layout=compact&theme=github_dark&hide_border=true&bg_color=050508&title_color=c71525&text_color=c9d1d9&langs_count=8" height="180" />
 
-</div>
+<br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=MahanKenway&theme=github-dark-blue&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9" />
-
-</div>
-
-<div align="center">
-
-
+<img src="https://streak-stats.demolab.com/?user=MahanKenway&theme=github-dark-blue&hide_border=true&background=050508&ring=c71525&fire=ff5f56&currStreakLabel=c71525" />
 
 </div>
 
@@ -112,7 +122,7 @@ I'm a passionate **Python Developer** and an avid **Gamer**. I love exploring th
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahanKenway&theme=github-compact&hide_border=true&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&area=true&area_color=6e40c9" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahanKenway&theme=github-compact&hide_border=true&bg_color=050508&color=aeb7c6&line=c71525&point=ffffff&area=true&area_color=8b0000" width="100%" />
 
 </div>
 
@@ -120,10 +130,13 @@ I'm a passionate **Python Developer** and an avid **Gamer**. I love exploring th
 
 ## 🎵 Currently Vibing
 
+<div align="center">
 
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31rndtorf2q5huhulx74wi42bfvq">
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31rndtorf2q5huhulx74wi42bfvq" alt="Data Card for Spotify">
 </a>
+
+</div>
 
 ---
 
@@ -144,6 +157,6 @@ I'm a passionate **Python Developer** and an avid **Gamer**. I love exploring th
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,50:161b22,100:c71525&height=110&section=footer" width="100%" />
 
 </div>

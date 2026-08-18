@@ -2,15 +2,15 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050508,50:161b22,100:c71525&height=230&section=header&text=Mahan%20Tavakoli&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Vibe%20Coding%20%C2%B7%20Open%20Source%20%C2%B7%20Retro%20Web%20Craft&descSize=16&descAlignY=55&descColor=aeb7c6)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:050508,50:11241a,100:39ff88&height=230&section=header&text=Mahan%20Tavakoli&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Vibe%20Coding%20%C2%B7%20Open%20Source%20%C2%B7%20Retro%20Web%20Craft&descSize=16&descAlignY=55&descColor=aeb7c6)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=C71525&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=74&lines=Python+Developer+%7C+AI+Integrator+%7C+Creative+Coder;Vibe+Coding+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+WebAssembly)](https://github.com/MahanKenway)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=39FF88&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=74&lines=Python+Developer+%7C+AI+Integrator+%7C+Creative+Coder;Vibe+Coding+%E2%80%A2+React+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+WebAssembly)](https://github.com/MahanKenway)
 
 <br/>
 
-<a href="https://github.com/MahanKenway?tab=repositories"><img src="https://img.shields.io/badge/Repos-14+-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=c71525" /></a>
-<a href="https://github.com/MahanKenway?tab=followers"><img src="https://img.shields.io/github/followers/MahanKenway?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=c71525" /></a>
-<img src="https://komarev.com/ghpvc/?username=MahanKenway&style=for-the-badge&color=c71525&label=PROFILE+VIEWS" />
+<a href="https://github.com/MahanKenway?tab=repositories"><img src="https://img.shields.io/badge/Repos-14+-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=39ff88" /></a>
+<a href="https://github.com/MahanKenway?tab=followers"><img src="https://img.shields.io/github/followers/MahanKenway?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22&color=39ff88" /></a>
+<img src="https://komarev.com/ghpvc/?username=MahanKenway&style=for-the-badge&color=39ff88&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -79,6 +79,9 @@ I enjoy building projects where the interface has a point of view: retro games i
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-f38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-22272e?style=for-the-badge&logo=githubpages&logoColor=white)
+![Emscripten](https://img.shields.io/badge/Emscripten-252525?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5fa04e?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -103,16 +106,13 @@ I enjoy building projects where the interface has a point of view: retro games i
 
 <br/>
 
-## 📊 Signal Check
+## 📊 Open-Source Signal
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MahanKenway&show_icons=true&theme=github_dark&hide_border=true&bg_color=050508&title_color=c71525&icon_color=c71525&text_color=c9d1d9&ring_color=c71525" height="180" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MahanKenway&layout=compact&theme=github_dark&hide_border=true&bg_color=050508&title_color=c71525&text_color=c9d1d9&langs_count=8" height="180" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=MahanKenway&theme=github-dark-blue&hide_border=true&background=050508&ring=c71525&fire=ff5f56&currStreakLabel=c71525" />
+<a href="https://github.com/MahanKenway/RetroPlay/stargazers"><img src="https://img.shields.io/github/stars/MahanKenway/RetroPlay?style=for-the-badge&label=RETROPLAY%20STARS&color=39ff88&labelColor=11241a" alt="RetroPlay stars" /></a>
+<a href="https://github.com/MahanKenway/Freedom-V2Ray/stargazers"><img src="https://img.shields.io/github/stars/MahanKenway/Freedom-V2Ray?style=for-the-badge&label=FREEDOM--V2RAY%20STARS&color=39ff88&labelColor=11241a" alt="Freedom-V2Ray stars" /></a>
+<a href="https://github.com/MahanKenway?tab=followers"><img src="https://img.shields.io/github/followers/MahanKenway?style=for-the-badge&label=FOLLOWERS&color=39ff88&labelColor=11241a" alt="GitHub followers" /></a>
 
 </div>
 
@@ -122,7 +122,7 @@ I enjoy building projects where the interface has a point of view: retro games i
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahanKenway&theme=github-compact&hide_border=true&bg_color=050508&color=aeb7c6&line=c71525&point=ffffff&area=true&area_color=8b0000" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MahanKenway&theme=github-compact&hide_border=true&bg_color=050508&color=aeb7c6&line=39ff88&point=ffffff&area=true&area_color=1b9c58" width="100%" />
 
 </div>
 
@@ -157,6 +157,6 @@ I enjoy building projects where the interface has a point of view: retro games i
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,50:161b22,100:c71525&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,50:11241a,100:39ff88&height=110&section=footer" width="100%" />
 
 </div>

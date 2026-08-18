@@ -157,6 +157,14 @@ I enjoy building projects where the interface has a point of view: retro games i
 
 <br/>
 
+<img src="https://media.tenor.com/faKRhomeVFAAAAAM/wake-the-fuxx-up-samurai.gif" alt="Johnny Silverhand in Cyberpunk 2077" width="420" />
+
+<br/>
+
+> *“Wake up, Samurai.”* — Johnny Silverhand
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050508,50:11241a,100:39ff88&height=110&section=footer" width="100%" />
 
 </div>
